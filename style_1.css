@@ -37,8 +37,8 @@ button {
     color: antiquewhite;
     text-align: center;
     align-items: center;
-    margin-top:0%;
-    left:50%;
+    margin-top:-500px;
+    margin-left:600px;
     border-radius: 20px;
 }
 #areas {
@@ -97,8 +97,8 @@ button {
     height: 900px;
     width : 300px;
     background-color: aliceblue;
-    left:100%;
-    top:50%
+    margin-top:0px;
+    margin-left: 900px;
     border-radius: 30px;
 }
 #inter {
