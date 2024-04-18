@@ -37,9 +37,8 @@ button {
     color: antiquewhite;
     text-align: center;
     align-items: center;
-    margin-top:-500px;
+    margin-top:0%;
     left:50%;
-    right:50%
     border-radius: 20px;
 }
 #areas {
