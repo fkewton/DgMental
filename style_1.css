@@ -98,7 +98,7 @@ button {
     width : 300px;
     background-color: aliceblue;
     margin-top:-700px;
-    margin-left: 900px;
+    margin-left: 100%;
     border-radius: 30px;
 }
 #inter {
