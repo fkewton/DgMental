@@ -117,7 +117,7 @@ button {
 }
 #p1 {
     height: 95px;
-    width: 220px;
+    width: auto;
     background-color: antiquewhite;
     font-size: small;
     margin-left: 70px;
@@ -125,7 +125,7 @@ button {
 }
 #p2 {
     height: 60px;
-    width: 220px;
+    width: auto;
     background-color: antiquewhite;
     font-size: small;
     margin-left: 70px;
